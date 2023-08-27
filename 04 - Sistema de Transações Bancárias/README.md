@@ -1,6 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](./../capa_readme_luelencavalheiro.gif)
 
-# Exercício 04
+# Exerc.04 - CubosAcademy - Julho/23
 
 ## Sistema de transações bancárias
 

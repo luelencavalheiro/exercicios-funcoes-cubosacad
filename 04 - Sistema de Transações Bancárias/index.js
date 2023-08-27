@@ -37,13 +37,12 @@ const contaBancaria = {
 
     },
     extrato: function () {
-        console.log(`Extrato de ${this.nome} - Saldo Atual ${this.saldo}`);
+        console.log(`Extrato de ${this.nome} - Saldo Atual R$${this.saldo}`);
         console.log(`Histórico`);
         for (let historico of this.historicos) {
             console.log(historico);
         }
-        console.log(`Depósito de R$${this.depositar}`);
-        console.log(`Saque de R$${this.saque}`);
+
     }
 };
 

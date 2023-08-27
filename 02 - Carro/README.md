@@ -74,29 +74,7 @@ Após executar os métodos, fique a vontade para testar as execuções de formas
 
 ---
 
-### EXTRA
-
-**Estes itens desta seção EXTRA não são obrigatórios e só deverão ser feitos se estiver com tempo sobrando.**
-
--       Tente revisar os métodos para aplicar a técnica DRY (Don't Repeat Yourself) e excluir (quando possível) toda repetição de código igual ou muito semelhante.
--       Faça uma segunda validação para permitir que o carro seja desligado **apenas** quando tiver em velocidade zero.
--   Implemente a **função start/stop** no carro, de forma que quando o carro estiver desligado e for acelerado, ele antes de acelerar, liga o carro. O contrário deve ser aplicado para o desacelerar: se o carro for desacelerado e a **nova** velocidade for zero, ele deve ser desligado.
-
----
 
 
-## ✅ O Que Eu Aprendi Aqui 👇
-
-Para resolver esse exercício, comecei criando uma FUNÇÃO. O primeiro objetivo da função era descobrir quantos acertos o aluno teve. Para isso,  usei o loop FOR para percorrer todo o array de objetos da propriedade questões. E dentro desse FOR, criei uma condicional para fazer as verificações. Em uma variável, fui adicionando a pontuação do aluno. Por fim, outra variável calculava a nota usando o operador de multiplicação. Na função, adicionei o método CONSOLE.LOG usando string template para imprimir na tela uma frase bonitinha. Chamei a função na linha 43, passando o parametro prova.
 
 
-## ✅ Skills Dominadas 👩‍💻
-
-- comandos GIT para criar e clonar repositórios
-- interpretação e solução de problemas usando Javascript
-- lógica de programação
-- manipulação de arrays de objetos
-- uso do loop for
-- uso de operadores aritiméticos
-- uso do string template 
-- criação de função
